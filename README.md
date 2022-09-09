@@ -10,5 +10,5 @@
  - Python3 
  - Zig
  
-- Projects
+### Projects
  - a basic compiler (haven't finished) (rotate)[https://github.com/rotate-lang/rotate-cpp]
