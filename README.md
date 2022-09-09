@@ -11,4 +11,4 @@
  - Zig
  
 ### Projects
- - a basic compiler (haven't finished) (rotate)[https://github.com/rotate-lang/rotate-cpp]
+ - a basic compiler (haven't finished) [rotate](https://github.com/rotate-lang/rotate-cpp)
