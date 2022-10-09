@@ -12,4 +12,4 @@
  - I used others too but at a basic level (dart, Odin, D and more)
  
 ### Projects
- - a basic compiler (haven't finished) [rotate](https://github.com/rotate-lang/rotate-cpp)
+ - a basic compiler (haven't finished) [rotate](https://codeberg.org/Airbus5717/rotate)
