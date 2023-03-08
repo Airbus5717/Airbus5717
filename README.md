@@ -5,11 +5,10 @@
 -->
 ### Programming Languages  
  - C (99)
- - C++ (haven't used modern C++)
  - Java
  - Python3 
  - Zig
- - I used others too but at a basic level (dart, Odin, D and more)
+ - I used others too but at a basic level (CSharp, Dart, Odin, D and more)
  
 ### Projects
- - a basic compiler (haven't finished) [rotate](https://github.com/Airbus5717/rotate)
+ - a basic compiler (WIP) [rotate](https://github.com/Airbus5717/rotate)
