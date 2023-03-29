@@ -8,7 +8,8 @@
  - Java
  - Python3 
  - Zig
- - I used others too but at a basic level (CSharp, Dart, Odin, D and more)
+ - CSharp
+ - I used others too but at a basic level (Ocaml, Dart, Odin, D and more)
  
 ### Projects
  - a basic compiler (WIP) [rotate](https://github.com/Airbus5717/rotate)
