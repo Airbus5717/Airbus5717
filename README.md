@@ -6,11 +6,9 @@
 ### Programming Languages  
  - C (99)
  - C++ (upto C++11)
- - Java
  - Python3 
  - Zig
- - CSharp
- - I used others too but at a basic level (OCaml, JS, F#, Odin, D and more)
+ - I used others too but at a basic level (C#, OCaml, JS, F#, Odin, D and more)
  
 ### Projects
  - a basic compiler (WIP) [rotate](https://github.com/Airbus5717/rotate)
