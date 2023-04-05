@@ -11,4 +11,4 @@
  - I used others too but at a basic level (C#, OCaml, JS, F#, Odin, D and more)
  
 ### Projects
- - a basic compiler (WIP) [rotate](https://github.com/Airbus5717/rotate)
+ - a basic compiler in C++ subset (C-Style) (only Lexer(Tokenizer) completed) [rotate](https://github.com/Airbus5717/rotate)
