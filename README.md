@@ -6,9 +6,10 @@
 ### Programming Languages  
  - C (99)
  - C++ (upto C++11)
+ - C#
  - Python3 
  - Zig
- - I used others too but at a basic level (C#, OCaml, JS, F#, Odin, D and more)
+ - I used others too but at a basic level (OCaml, JS, F#, Odin, D and more)
  
 ### Projects
  - a basic compiler in C++ subset (C-Style) (only Lexer(Tokenizer) completed) [rotate](https://github.com/Airbus5717/rotate)
