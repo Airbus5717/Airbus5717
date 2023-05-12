@@ -14,4 +14,5 @@
  - I used others too but at a basic level (OCaml, JS, F#, Odin, D and more)
  
 ### Projects
+ - programming language compiler implementation in C# [A7](https://github.com/Airbus5717/a7lang)
  - a basic compiler in C++ subset (C-Style) (only Lexer(Tokenizer) completed) [rotate](https://github.com/Airbus5717/rotate)
